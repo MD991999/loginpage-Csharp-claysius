@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\bin\Debug\c# login application.exe.config
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\bin\Debug\c# login application.exe
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\bin\Debug\c# login application.pdb
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c__login_application.Form1.resources
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c__login_application.Properties.Resources.resources
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.exe
+C:\Users\hp\Desktop\sql projects\task2-loginform-attempt2\c# login application\obj\Debug\c# login application.pdb
