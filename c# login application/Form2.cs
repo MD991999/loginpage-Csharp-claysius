@@ -16,5 +16,19 @@ namespace c__login_application
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form1 = new Form1();  
+            form1.ShowDialog();
+        }
+
+        private void buttonback_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form1 = new Form1();
+            form1.ShowDialog();
+        }
     }
 }
